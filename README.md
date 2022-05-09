@@ -1,3 +1,0 @@
-- 👋 Hi
-- 👀 I’m interested in 3D Modeling
-- 🌱 I’m currently learning School
